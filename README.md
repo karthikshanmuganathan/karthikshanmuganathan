@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthikshanmuganathan
+- 👋 Hi, I’m @karthik_shanmuganathan
 - 👀 I’m interested in architecture, open source and data analytics
 - 🌱 I’m currently learning coding in Java
 - 💞️ I’m looking to collaborate on cloud architecture and data analytics
